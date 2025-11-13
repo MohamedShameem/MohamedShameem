@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/email-shameem.devstudio@gmail.com-red?style=flat-square&logo=gmail" />
-  <a href="https://www.linkedin.com/in/engineer-mohamed-shameem/">
+  <a href="https://www.linkedin.com/in/engr-mohamed-shameem/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Shameem-0077B5?style=flat-square&logo=linkedin" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=shameemdev&label=Profile%20Views&color=blueviolet&style=flat" alt="views"/>
