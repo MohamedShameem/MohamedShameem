@@ -16,7 +16,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 **Software Development Manager** @ **Upayments**, Kuwait  
-- 👨‍💻 **7+ years** of experience in web, mobile, backend, and DevOps  
+- 👨‍💻 **8+ years** of experience in web, mobile, backend, and DevOps  
 - 💡 Ex-freelancer who transformed ideas into market-ready products  
 - ⚙️ Security-focused, performance-obsessed, and UX-driven  
 - 🧠 Lifelong learner, mentor, and tech team enabler  
