@@ -18,11 +18,11 @@
 
 I’m a **Senior Software Engineer & Software Development Manager** based in **Kuwait**, with **8+ years of hands-on experience** building and scaling production-grade digital products.
 
-I work across **web, mobile, backend, and DevOps**, and I enjoy operating at the intersection of **engineering, security, performance, and business impact**.
+I’ve worked across **web, mobile, backend, and DevOps**, and I enjoy operating at the intersection of **engineering, security, performance, and business impact**.
 
 - 🔭 **Software Development Manager** at **Upayments**
-- 👨‍💻 Former freelancer turned product & platform builder
-- 🧱 Strong focus on architecture and scalability
+- 🧠 Former freelancer turned product & platform builder
+- 🧩 Strong focus on architecture, scalability, and long-term maintainability
 - 🔐 Security-first mindset with real-world threat awareness
 - 👥 Passionate about mentoring engineers and building strong teams
 
@@ -56,39 +56,15 @@ I work across **web, mobile, backend, and DevOps**, and I enjoy operating at the
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shameemdev&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&theme=transparent" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shameemdev&layout=compact&theme=transparent" height="160"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shameemdev&theme=github-compact" />
-
----
-
-## 🤝 Open Source & Engineering Engagement
-
-- 🧩 Active contributor to private and internal repositories
-- 🛠️ Regularly involved in code reviews and architectural decisions
-- 📦 Maintaining production systems and shared libraries
-- 👥 Mentoring engineers and guiding technical growth
-- 🔍 Reviewing pull requests with focus on quality and security
-
----
-
 ## 🧠 Engineering Philosophy
 
 > “Great software isn’t just written — it’s designed, reviewed, secured, and evolved.”
 
-- ✨ Clean, readable, maintainable code
+- ✨ Clean, readable, and maintainable code
 - 🧱 Strong architectural foundations
-- 🔐 Security as a first-class concern
-- 🚀 Performance, reliability, and UX focus
+- 🔍 Code reviews, documentation, and standards
+- 🔐 Security as a feature, not an afterthought
+- 🚀 Performance, reliability, and user experience
 - 🤝 Clear communication between tech and business
 
 ---
